@@ -14,7 +14,6 @@ print "This is fun."
 print 'Yay! Printing.'
 print "I'd much rather you 'not'."
 print 'I "said"do not touch this.'
-## 附加题1：
 print ""  ##让你的脚本多打印一行
 
 ##附加题2
@@ -25,4 +24,4 @@ print "Hello World!"
 # print "This is fun."
 # print 'Yay! Printing.'
 # print "I'd much rather you 'not'."
-# print 'I "said"do not touch this.' 井号的作用就是使改行变成注释，不显示
+# print 'I "said"do not touch this.' 井号的作用就是使该行变成注释，不显示
